@@ -5,4 +5,4 @@ Saad M. Alqahtani, Abduljabar Q. Alsayoud and Fahhad H. Alharbi, “An Approach 
 
 Saad M. Alqahtani, Abduljabar Q. Alsayoud and Fahhad H. Alharbi, “Identifying Highly Stable Structures of ABX<sub>3</sub> Compounds: Cases of CaTiO<sub>3</sub> and CsGeCl<sub>3</sub> Perovskites,” 6<sup>th</sup> International Conference on Renewable Energy: Generation and Application, ICREG’21, IEEE, United Arab Emirates (UAE), 2021.
 
-The full HT screening to be reported shortly in new work shortly.
+The full HT screening to be published shortly for the uploaded structures.
