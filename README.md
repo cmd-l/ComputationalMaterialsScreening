@@ -1,2 +1,2 @@
 # ComputationalMaterialsScreening
-In this repository, files in crystallographic information file (cif) format of ABX$_3$ compounds are available. 
+In this repository, files in crystallographic information file (cif) format of fractions.gcd(ABX,3) compounds are available. 
