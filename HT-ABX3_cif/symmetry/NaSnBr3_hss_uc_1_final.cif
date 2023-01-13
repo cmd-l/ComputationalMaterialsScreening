@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# Br12Na4Sn4
+data_Br12Na4Sn4
+_pd_phase_name Br12Na4Sn4
+_cell_length_a  8.1906781606
+_cell_length_b  7.4530790033
+_cell_length_c  10.9251658890
+_cell_angle_alpha  89.9832636975
+_cell_angle_beta  89.9377933034
+_cell_angle_gamma  90.0386623414
+_symmetry_space_group_name_H-M  'Pna2_{1}'
+_symmetry_Int_Tables_Number  33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x+1/2,-y+1/2,z
+  4  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Br1 1.0000000000 0.1299281581 0.8578650504 0.9841189308  Biso 1.0 Br 4 a
+Br2 1.0000000000 0.2126053733 0.8202231262 0.3549217469  Biso 1.0 Br 4 a
+Br3 1.0000000000 0.4225839738 0.8454661153 0.6923320238  Biso 1.0 Br 4 a
+Na4 1.0000000000 0.4806056367 0.0006790522 0.9473094976  Biso 1.0 Na 4 a
+Sn5 1.0000000000 0.9377791100 0.0047672804 0.2511710773  Biso 1.0 Sn 4 a

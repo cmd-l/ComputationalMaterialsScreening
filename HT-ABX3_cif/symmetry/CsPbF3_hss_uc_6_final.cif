@@ -1,0 +1,38 @@
+# AFLOW.org Repositories
+# Cs8F24Pb8
+data_Cs8F24Pb8
+_pd_phase_name Cs8F24Pb8
+_cell_length_a  6.9407253582
+_cell_length_b  9.7934767880
+_cell_length_c  6.8595583919
+_cell_angle_alpha  89.9334546714
+_cell_angle_beta  90.2267243612
+_cell_angle_gamma  90.0657671268
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cs1 1.0000000000 0.0221321124 0.2471982125 0.5016231069  Biso 1.0 Cs 4 c
+F2 1.0000000000 0.4796019298 0.2471731282 0.4403640000  Biso 1.0 F 4 c
+F3 1.0000000000 0.7254842301 0.5256358382 0.2213963858  Biso 1.0 F 8 d
+Pb4 1.0000000000 0.9816790720 0.9988578269 0.0056159649  Biso 1.0 Pb 4 a

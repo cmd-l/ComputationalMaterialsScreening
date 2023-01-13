@@ -1,0 +1,38 @@
+# AFLOW.org Repositories
+# I12K4Pb4
+data_I12K4Pb4
+_pd_phase_name I12K4Pb4
+_cell_length_a  8.9543322996
+_cell_length_b  12.1738669326
+_cell_length_c  8.3649725843
+_cell_angle_alpha  90.0084061638
+_cell_angle_beta  90.0124505723
+_cell_angle_gamma  89.8323835484
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+I1 1.0000000000 0.1942359762 0.4354404287 0.6891181040  Biso 1.0 I 8 d
+I2 1.0000000000 0.5414726715 0.2620462129 0.3669674518  Biso 1.0 I 4 c
+K3 1.0000000000 0.9063657032 0.2583459499 0.5373522600  Biso 1.0 K 4 c
+Pb4 1.0000000000 0.0015768511 0.9967668874 0.9964726475  Biso 1.0 Pb 4 a
