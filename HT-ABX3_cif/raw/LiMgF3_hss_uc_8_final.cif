@@ -1,0 +1,35 @@
+# AFLOW.org Repositories
+# F6Li2Mg2
+data_F6Li2Mg2
+_pd_phase_name F6Li2Mg2
+_cell_length_a  5.0846781386
+_cell_length_b  5.0847400175
+_cell_length_c  5.4773010641
+_cell_angle_alpha  62.2873189716
+_cell_angle_beta  62.2839309382
+_cell_angle_gamma  59.9782436116
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+F1 1.0000000000 0.8564552667 0.5301052714 0.4602466062  Biso 1.0 F
+F2 1.0000000000 0.6460945427 0.0311183988 0.9592904172  Biso 1.0 F
+F3 1.0000000000 0.1463391092 0.8579245723 0.4610286496  Biso 1.0 F
+F4 1.0000000000 0.3575002500 0.6467474169 0.9616094489  Biso 1.0 F
+F5 1.0000000000 0.5290598802 0.1466255833 0.4603411903  Biso 1.0 F
+F6 1.0000000000 0.0301114755 0.3578412042 0.9595057674  Biso 1.0 F
+Li7 1.0000000000 0.9599144583 0.9616982947 0.1111360538  Biso 1.0 Li
+Li8 1.0000000000 0.4598878576 0.4601768437 0.6123625776  Biso 1.0 Li
+Mg9 1.0000000000 0.7506370513 0.7514005645 0.7411664785  Biso 1.0 Mg
+Mg10 1.0000000000 0.2503412204 0.2512651330 0.2414477498  Biso 1.0 Mg
