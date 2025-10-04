@@ -1,0 +1,35 @@
+# Computational Materials Screening: Highly Stable Phases of ABX3 Compounds
+# F24K8Pb8
+data_F24K8Pb8
+_pd_phase_name F24K8Pb8
+_cell_length_a  11.5270762040
+_cell_length_b  6.6081892218
+_cell_length_c  9.4078633817
+_cell_angle_alpha  89.7080272312
+_cell_angle_beta  144.6884828458
+_cell_angle_gamma  90.0853238229
+_symmetry_space_group_name_H-M  'Cc'
+_symmetry_Int_Tables_Number  9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  x,-y,z+1/2
+  3  x+1/2,y+1/2,z
+  4  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+F1 1.0000000000 0.7029577573 0.2739803907 0.3795906108  Biso 1.0 F 4 a
+F2 1.0000000000 0.8170958254 0.1591996983 0.1063975320  Biso 1.0 F 4 a
+F3 1.0000000000 0.5407410983 0.8869027584 0.0594168696  Biso 1.0 F 4 a
+K4 1.0000000000 0.4384227964 0.5014534454 0.9722183639  Biso 1.0 K 4 a
+Pb5 1.0000000000 0.9953379002 0.4960861538 0.7550412064  Biso 1.0 Pb 4 a

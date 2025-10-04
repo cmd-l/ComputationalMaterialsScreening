@@ -1,0 +1,52 @@
+# Computational Materials Screening: Highly Stable Phases of ABX3 Compounds
+# Ca8I24Na8
+data_Ca8I24Na8
+_pd_phase_name Ca8I24Na8
+_cell_length_a  16.0258738820
+_cell_length_b  16.0258738821
+_cell_length_c  21.8482561998
+_cell_angle_alpha  89.9999999985
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  119.9999999998
+_symmetry_space_group_name_H-M  'R3c'
+_symmetry_Int_Tables_Number  161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,z+1/2
+  5  -x+y,y,z+1/2
+  6  x,x-y,z+1/2
+  7  x+2/3,y+1/3,z+1/3
+  8  -y+2/3,x-y+1/3,z+1/3
+  9  -x+y+2/3,-x+1/3,z+1/3
+  10  -y+2/3,-x+1/3,z+5/6
+  11  -x+y+2/3,y+1/3,z+5/6
+  12  x+2/3,x-y+1/3,z+5/6
+  13  x+1/3,y+2/3,z+2/3
+  14  -y+1/3,x-y+2/3,z+2/3
+  15  -x+y+1/3,-x+2/3,z+2/3
+  16  -y+1/3,-x+2/3,z+1/6
+  17  -x+y+1/3,y+2/3,z+1/6
+  18  x+1/3,x-y+2/3,z+1/6
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ca1 1.0000000000 0.1689478132 0.3281568607 0.5837075366  Biso 1.0 Ca 18 b
+Ca2 1.0000000000 0.0008290651 0.0005232872 0.7378937468  Biso 1.0 Ca 6 a
+I3 1.0000000000 0.6738886293 0.1580357971 0.3252018199  Biso 1.0 I 18 b
+I4 1.0000000000 0.1671005310 0.0181512150 0.8300344450  Biso 1.0 I 18 b
+I5 1.0000000000 0.5045136012 0.1733877653 0.4931645490  Biso 1.0 I 18 b
+I6 1.0000000000 0.3345396177 0.9888735063 0.6585929343  Biso 1.0 I 18 b
+Na7 1.0000000000 0.9996148384 0.0000599709 0.9288681442  Biso 1.0 Na 6 a
+Na8 1.0000000000 0.3359019200 0.1677529215 0.2253364298  Biso 1.0 Na 18 b

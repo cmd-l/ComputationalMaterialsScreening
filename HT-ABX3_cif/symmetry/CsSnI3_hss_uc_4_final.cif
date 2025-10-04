@@ -1,0 +1,37 @@
+# Computational Materials Screening: Highly Stable Phases of ABX3 Compounds
+# Cs4I12Sn4
+data_Cs4I12Sn4
+_pd_phase_name Cs4I12Sn4
+_cell_length_a  12.5730503668
+_cell_length_b  8.6261177915
+_cell_length_c  9.0678153988
+_cell_angle_alpha  89.9986698183
+_cell_angle_beta  90.5581804403
+_cell_angle_gamma  90.0291179708
+_symmetry_space_group_name_H-M  'Pmc2_{1}'
+_symmetry_Int_Tables_Number  26
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_thermal_displace_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cs1 1.0000000000 0.4991925920 0.7693277385 0.9245519511  Biso 1.0 Cs 2 b
+Cs2 1.0000000000 0.9991965316 0.7233674875 0.0596496654  Biso 1.0 Cs 2 a
+I3 1.0000000000 0.5049595234 0.3177326663 0.9974973958  Biso 1.0 I 2 b
+I4 1.0000000000 0.0046818263 0.1740170822 0.9814287427  Biso 1.0 I 2 a
+I5 1.0000000000 0.7147028750 0.9542511766 0.1927690597  Biso 1.0 I 4 c
+I6 1.0000000000 0.7841572009 0.5491906278 0.7803066747  Biso 1.0 I 4 c
+Sn7 1.0000000000 0.7434161558 0.2477539388 0.0068898339  Biso 1.0 Sn 4 c
