@@ -1,4 +1,5 @@
-# ComputationalMaterialsScreening
+# Computational Materials Screening
+## Highly Stable Phases of ABX3Compounds
 In this repository, files in crystallographic information file (cif) format of ABX<sub>3</sub> compounds are available. High-throughput (HT) screening for ABX<sub>3</sub> compounds were implemented using random sampling and DFT. The method to generate highly stable structures of ABX<sub>3</sub> compounds is explained in our previous work:
 
 Saad M. Alqahtani, Abduljabar Q. Alsayoud and Fahhad H. Alharbi, “An Approach Based on Random Sampling and Density Functional Theory to Identify Highly Stable Structures of ABX<sub>3</sub> Compounds,” Comput. Mater. Sci., vol. 192, no. 110304, p. 110304, 2021.
